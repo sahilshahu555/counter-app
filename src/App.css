@@ -1,0 +1,11 @@
+.gradientText{
+  @apply bg-gradient-to-r from-purple-500 via-pink-500 to-yellow-500 bg-clip-text text-transparent p-5 
+}
+
+.gradientText1{
+  @apply bg-gradient-to-r from-purple-500 via-pink-500  bg-clip-text text-transparent p-5 
+}
+
+body{
+  background:rgb(209,213,219);
+}
